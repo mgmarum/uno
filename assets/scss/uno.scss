@@ -1,20 +1,22 @@
 @import 'bourbon/bourbon';
+
 @import 'http://fonts.googleapis.com/css?family=Raleway:400,700|Roboto+Slab:300,400)';
+
 
 // ------------------------------
 // THE BASICS
 // ------------------------------
 
-@import 'reset.scss';
-@import 'grid.scss';
-@import 'variables.scss';
-@import 'fonts.scss';
+@import 'reset';
+@import 'grid';
+@import 'variables';
+@import 'fonts';
 
 // ------------------------------
 // GLOBAL STYLES
 // ------------------------------
 
-@import 'global.scss';
+@import 'global';
 
 // ------------------------------
 // SECTIONS
